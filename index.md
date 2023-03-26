@@ -2,9 +2,8 @@
 
 ---
 
-### Data migration projects 
+### Here is how you process map a Data migration project
 
-Data Migration
 <img src="images/current-vs-future-data migration.png?raw=true"/>
 
 
