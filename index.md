@@ -4,7 +4,7 @@
 
 ### Data migration projects 
 
-[Data Migration](/sample_page)
+[Data Migration](/images/current-vs-future-data migration.png)
 <img src="images/current-vs-future-data migration.png?raw=true"/>
 
 
