@@ -2,9 +2,9 @@
 
 ---
 
-### _Here is how you process map a data migration project_
 
-<img src="images/current-vs-future-data migration.png?raw=true"/>
+
+<!--  <img src="images/current-vs-future-data migration.png?raw=true"/> -->
 
 
 
