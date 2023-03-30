@@ -7,7 +7,7 @@
 <!-- <img src="images/_09c4781c-530d-4b1a-8d38-cc76132bb9e7.jpg"/> -->
 
 
-[Sushil Murali](/pdf/Sushil-Murali-A-Profile-Overview.pdf.pdf)
+[Check out my profile!](/pdf/Sushil-Murali-A-Profile-Overview.pdf)
 
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 <!-- [Project 3 Title](http://example.com/) -->
